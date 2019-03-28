@@ -7,7 +7,7 @@ Features
 --
 
 - Very Simple
-- Many Efects Support
+- Many Effects Support
 - High Performance
 - More Secure
 
